@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: my-python-app
-          image: ghcr.io/thongvm1111/my-python-app:c559cae
+          image: ghcr.io/thongvm1111/my-python-app:e3020c9
           ports:
             - containerPort: 80
